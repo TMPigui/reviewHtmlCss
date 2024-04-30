@@ -1,0 +1,14 @@
+span{
+    color: red;
+}
+
+.faltante{
+    color: aqua;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#ingredienteSecreto{
+    color: rgb(3, 0, 204);
+}

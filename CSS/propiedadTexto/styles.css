@@ -1,0 +1,16 @@
+p{
+    color: red; /*color letra*/
+    font-family: Montserrat; /*estilo letra*/
+    font-size: 13px; /*tamaño letra*/
+    font-weight: 900; /*resalta en negrilla la letra*/ 
+    font-style:italic; /*Permite darle inclinacion a la letra*/
+    text-align: justify; /*todas las lineas inicien y terminen igual*/ 
+    line-height: 1.9; /*define el tamaño del espacio entre las letras*/
+    letter-spacing: 2px; /*este me separa las letras*/
+    text-transform:capitalize; /*me permite controlar si queremos que sea mayus,minus o que empiexe con mayus cada palabre*/
+}
+
+span{
+    text-decoration:line-through;
+    color: black;
+}
