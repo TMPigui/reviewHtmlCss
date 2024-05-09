@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  font-family: sans-serif;
+  color: white;
+}
+
+.card {
+  background: rgb(173, 114, 5);
+  text-align: center;
+  width: 300px;
+  margin: auto;
+}
+
+h1 {
+    padding-top: 10px;
+    font-size: 30px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: 100;
+    letter-spacing: 3px;
+}
+
+p{
+    font-size: 12px;
+    padding: 20px;
+    background: rgb(222, 174, 83);
+    text-align: justify;
+}

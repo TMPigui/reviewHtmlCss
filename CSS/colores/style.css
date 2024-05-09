@@ -1,0 +1,15 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: rgb(24, 130, 172);
+    margin: 20px;
+
+}
+
+/*Colores exadecimal*/
+.box2 {
+    width: 100px;
+    height: 100px;
+    background: chartreuse;
+    margin: 20px;
+}
